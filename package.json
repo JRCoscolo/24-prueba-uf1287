@@ -1,0 +1,23 @@
+{
+  "name": "24-prueba-uf1287",
+  "version": "1.0.0",
+  "description": "Prueba de examen de la UF1287",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRCoscolo/24-prueba-uf1287.git"
+  },
+  "keywords": [
+    "Prueba",
+    "UF1287"
+  ],
+  "author": "JRCoscolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRCoscolo/24-prueba-uf1287/issues"
+  },
+  "homepage": "https://github.com/JRCoscolo/24-prueba-uf1287#readme"
+}

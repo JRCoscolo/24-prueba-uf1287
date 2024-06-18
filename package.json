@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/JRCoscolo/24-prueba-uf1287/issues"
   },
-  "homepage": "https://github.com/JRCoscolo/24-prueba-uf1287#readme"
+  "homepage": "https://github.com/JRCoscolo/24-prueba-uf1287#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
